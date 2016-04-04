@@ -1,7 +1,7 @@
 name: Pelletier + Schaar Stock Plans
 favicon: null
 layout_spectrum: 0.4692421113140881
-typography_spectrum: 0.6290217177011073
+typography_spectrum: 0.5696
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.2345936915371567
-  lightness: 0.8059274323750287
-  saturation: 0.8645602681208402
-  rhythmicContrast: 0.01728425733745098
+  brandStrength: 1
+  lightness: 1
+  saturation: 0.5
+  rhythmicContrast: 0.25
 purpose: []
