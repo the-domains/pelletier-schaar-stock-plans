@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Pelletier + Schaar Stock Plans]]></title>
+        <description><![CDATA[Pelletier + Schaar Stock Plans]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 04 Apr 2016 17:56:01 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c0060fb-0e2e-43ab-8522-a0c629975bd5.jpg">]]></description>
+            <link>undefinedif-your-schedule-is-tight-our-home-plans-are-a-way-to-have/index.html</link>
+            <guid isPermaLink="false">48dafb9e-9dcc-4571-ac2c-e644091aae87</guid>
+            <pubDate>Mon, 04 Apr 2016 17:56:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
