@@ -1,0 +1,28 @@
+name: Pelletier + Schaar Stock Plans
+favicon: null
+layout_spectrum: 0.4692421113140881
+typography_spectrum: 0.6290217177011073
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.2345936915371567
+  lightness: 0.8059274323750287
+  saturation: 0.8645602681208402
+  rhythmicContrast: 0.01728425733745098
+purpose: []
