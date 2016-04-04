@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Pelletier + Schaar Stock Plans]]></title>
         <description><![CDATA[Pelletier + Schaar Stock Plans]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/pelletier-schaar-stock-plans/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Apr 2016 17:56:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 04 Apr 2016 17:56:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/pelletier-schaar-stock-plans/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Pelletier + Schaar offers plans for homes in contemporary, transitional, and traditional styles. Our plans include one- and two-story, daylight basements, and split levels.</p>]]></description>
+            <link>https://thegrid.ai/pelletier-schaar-stock-plans/pelletier-schaar-offers-plans-for-homes-in-contemporary-t/index.html</link>
+            <guid isPermaLink="false">2f9ac0ba-6522-46e7-8564-f3890eb8d762</guid>
+            <pubDate>Mon, 04 Apr 2016 17:56:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c0060fb-0e2e-43ab-8522-a0c629975bd5.jpg">]]></description>
-            <link>undefinedif-your-schedule-is-tight-our-home-plans-are-a-way-to-have/index.html</link>
+            <link>https://thegrid.ai/pelletier-schaar-stock-plans/if-your-schedule-is-tight-our-home-plans-are-a-way-to-have/index.html</link>
             <guid isPermaLink="false">48dafb9e-9dcc-4571-ac2c-e644091aae87</guid>
             <pubDate>Mon, 04 Apr 2016 17:56:00 GMT</pubDate>
         </item>
